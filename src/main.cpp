@@ -2796,7 +2796,7 @@ bool InitBlockIndex() {
             block.nNonce   = 386195985;
         }
 
-if (true && block.GetHash() != hashGenesisBlock)
+if (false && block.GetHash() != hashGenesisBlock)
         {
             printf("Searching for genesis block...\n");
             // This will figure out a valid hash and Nonce if you're
