@@ -34,6 +34,7 @@ sudo apt-get install libqt5gui5 libqt5core5a libqt5dbus5 qttools5-dev qttools5-d
 sudo apt-get install libqt4-dev libprotobuf-dev protobuf-compiler
 
 Use following commands to compile after cloning project:
+-------------------------------------------------------
 
 cd opencoin
 qmake
