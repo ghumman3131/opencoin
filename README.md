@@ -8,7 +8,7 @@ Copyright (c) 2017 Xxxcoin Developer
 
 
 Make sure these Dependencies are installed before compiling source code
-
+-----------------------------------------------------------------------
 sudo apt-get install git
  
 sudo apt-get install build-essential libtool autotools-dev automake pkg-config libssl-dev libevent-dev bsdmainutils
